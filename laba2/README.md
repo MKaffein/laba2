@@ -36,6 +36,10 @@
 
 <a name="intro"></a>
 
+# Web Manager
+
+# Содержание
+
 # 1 Описание приложения
 
 Web-приложение "Список дел" предназначено для уменьшение нагрузки на память человека путём оставления заметок. 
@@ -108,13 +112,13 @@ Backend предоставляет API-методы, вызывая которы
 - Диаграмма состояний
 - Диаграмма компонентов
 
-[Диаграммы](https://github.com/kharbacheuski/to-do-web-manager/tree/main/documentation/diagrams/README.md)
+[Диаграммы](https://github.com/MKaffein/laba2/blob/main/laba2/documentation/diagrams/README.md)
 
 ## 5.2 Скриншоты
 
 По ссылке ниже размещены скриншоты основных элементов приложения
 
-[Скриншоты](https://github.com/kharbacheuski/to-do-web-manager/tree/main/documentation/screenshots/README.md)
+[Скриншоты](https://github.com/MKaffein/laba2/blob/main/laba2/documentation/screenshots/README.md)
 
 <a name="source_code" />
 
@@ -123,15 +127,13 @@ Backend предоставляет API-методы, вызывая которы
 Исходных код проекты включает в себя программы двух главных составляющих проекта: фронтенд и бэкэнд, а также дампы таблиц для MySQL базы данных
 
 ## 6.1 Frontend
-[Frontend](https://github.com/kharbacheuski/to-do-web-manager/tree/main/project-code/client)
+[Frontend](https://github.com/MKaffein/laba2/tree/main/laba2/project-code/client)
 
 ## 6.2 Backend
-[Backend](https://github.com/kharbacheuski/to-do-web-manager/tree/main/project-code/server)
+[Backend](https://github.com/MKaffein/laba2/tree/main/laba2/project-code/server)
 
 ## 6.3 Data Base
-[Data Base](https://github.com/kharbacheuski/to-do-web-manager/tree/main/project-code/data-base)
-
-<a name="testing" />
+[Data Base](https://github.com/MKaffein/laba2/tree/main/laba2/project-code/data-base)
 
 # 7 Тестирование
 
@@ -188,13 +190,13 @@ Backend предоставляет API-методы, вызывая которы
 
 ## 7.3 Результат тестирования
 
-[Результат тестирования](https://github.com/kharbacheuski/to-do-web-manager/tree/main/documentation/testing/README.md)
+[Результат тестирования](https://github.com/MKaffein/laba2/blob/main/laba2/documentation/testing/README.md)
 
 <a name="testing_src" />
 
 ## 7.4 Исходный код тестов
 
-[Исходный код тестов](https://github.com/kharbacheuski/to-do-web-manager/tree/main/project-code/server/src/tests)
+[Исходный код тестов](https://github.com/MKaffein/laba2/tree/main/laba2/project-code/server/src/tests)
 
 <a name="non-functional_requirements"/>
 
